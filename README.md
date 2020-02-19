@@ -1,2 +1,2 @@
-# Wiki-API
- Criação de uma API RESTful que gerencia dados de artigos de uma enciclopédia fictícia.
+# WIKI API
+ Criação de uma API RESTful que gerencia os artigos de uma enciclopédia fictícia.
